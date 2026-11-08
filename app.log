@@ -1,0 +1,6 @@
+INFO: App started
+INFO: User logged in
+ERROR: Database connection failed
+INFO: Retry attempt 1
+ERROR: Timeout after 30s
+INFO: App stopped
